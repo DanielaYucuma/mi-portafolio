@@ -1,0 +1,14 @@
+.font-10em {
+font-size: 10em;
+color: darkcyan;
+}
+p.font-5em {
+    font-size: 5em;
+}
+h1{
+    font-size: 8em;
+    color: rgb(209, 23, 23);
+}
+p.font-8em {
+    font-size: 8em;
+}

@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+}
+.box-direction { 
+    display: flex;
+    flex-direction:row;
+}
+.box-style{
+
+    width: 300px;
+    height:300px;
+    margin:20px;
+    display: flex;
+    color: beige;
+    justify-content: center;
+    align-items:center;
+    color: beige;
+    font-size: 1.4em;
+    text-align: center;
+    font-family: tahoma, sans-serif;
+    font-weight: 900;
+   
+}
+.box-darkcyan 
+{background-color: darkcyan ;}
+
+.box-goldenrod
+{background-color: goldenrod;
+
+}
+.box-mediumblue
+{background-color:mediumblue;
+}
+
+.box-107-28-81
+{background-color: rgb(107, 28, 81);}
+
+.box-51-22-90
+{background-color: rgb(51, 22, 90);}
+
+.box-28-107-74
+{background-color: rgb(28, 107, 74);}
+
+.box-ff1a0a
+{background-color: #ff1a0a;}
+
+.box-f6c0a
+{background-color: #ff6c0a;}
+
+.box-ffc60a
+{background-color: #ffc60a;}

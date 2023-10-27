@@ -1,0 +1,23 @@
+h3{
+    font-size: 7em;
+    color: brown;
+}
+
+p{
+    font-size: 6em;
+    color: blueviolet;
+}
+p.font-5em{
+    font-size: 8em;    
+ color: aqua;}
+.font-12em{
+    font-size: 2em;
+    color: coral;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-size:2em;
+    text-align: justify;
+}

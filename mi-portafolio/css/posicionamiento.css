@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    font-family:tahoma, sans-serif;
+}
+h2 {
+    text-align: center;
+    font-family:tahoma, sans-serif;
+}
+
+
+.position-static {
+    background-color: rgb(249, 180, 17);
+    position: static;
+     width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    font-family:tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+.position-fixed {
+    background-color: rgb(42, 170, 239);
+    position: fixed;
+    top: 150px;
+    left: 350px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    font-family:tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+.position-absolute {
+    background-color: rgb(31, 132, 132);
+    position: absolute;
+    top: 400px;
+    left: 850px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    font-family:tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+.position-relative {
+    background-color: rgb(10, 116, 223);
+    position: relative;
+    width: 300px;
+    height: 300px;
+    top: 750px;
+    left: 50px;
+    padding: 10px;
+    font-family:tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+

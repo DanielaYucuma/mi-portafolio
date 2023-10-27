@@ -1,0 +1,51 @@
+*{margin:0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+
+}
+.main-box {
+    display: flex;
+    align-items: flex-start;
+    margin-top:0;
+    justify-content: center;
+    flex-direction: row;
+    /*vh:view heigth*/
+    height: 200vh;
+    background-color: rgb(221, 221, 216);
+    
+       
+}
+.box-style {
+    width: 300px;
+    margin: 200px 15px; 
+    
+}
+.box-1{
+    border: 5px solid rgb(206, 62, 206);
+    display: inline-block;
+    
+    
+}
+.box-2{
+  
+    border: 5px dashed rgb(5, 4, 53);
+    display: inline-block;
+    height: 300px;
+}
+
+.box-3{
+    border: 5px dotted rgb(114, 91, 15);
+    display: inline-block;
+    height: 300px;
+}
+
+.box-4{
+    border: 5px double rgb(10, 80, 39);
+    display: inline-block;
+    height: 300px;
+}
+p {font-size: 1.4em;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    padding:25px;
+}

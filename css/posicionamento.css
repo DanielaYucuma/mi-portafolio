@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+
+.box-style{
+
+    width: 300px;
+    height:300px;
+    display: flex;
+    color: beige;
+    justify-content: center;
+    align-items:center;
+    color: beige;
+    font-size: 1.4em;
+    text-align: center;
+    font-family: tahoma, sans-serif;
+    font-weight: 900;
+   
+   
+}
+.box-1
+{background-color: darkcyan ;
+position: static;
+}
+.box-2
+{background-color: goldenrod;
+position: fixed;
+bottom: 550px;
+left: 650px;
+}
+.box-3
+{background-color:mediumblue;
+position: absolute;
+}
+.box-4
+{background-color:mediumblue;
+position: relative;
+bottom:0px;
+left: 350px;
+background-color: blueviolet;
+}

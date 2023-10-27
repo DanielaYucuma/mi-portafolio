@@ -1,0 +1,16 @@
+.box-dir {
+    width:500px;
+    height:600px;
+    border:3px solid ;
+    border-radius:20px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    background-color: blue;
+}
+
+.box-dir:hover{
+    border:3px solid
+}

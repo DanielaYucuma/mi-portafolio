@@ -1,0 +1,93 @@
+.table-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+    border-radius: 20px;
+}
+
+th, td{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 15px 25px;
+    text-align: center;
+}
+.th-gold {
+    background-color: gold;
+    color: white;
+}
+.x style {
+    color: rgb(180,10,10);
+}
+.borde-sup-iz {
+    border-top-left-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+}
+.canal {
+    background-color: rgb(11, 177, 254);
+    color: white;  
+}
+.plan-basic{
+    background-color: rgb(0, 13, 255);
+    color: white;
+}
+.plan-silver{
+    background-color: rgb(255, 1, 204);
+    color: white;
+}
+.plan-platino{
+    border-top-right-radius: 20px;
+    background-color: rgb(252, 122, 0);
+    color: white;
+}
+.discovery{
+    background-color: blueviolet;
+    color: white;
+}
+.discovery-channel{
+    background-color: rgb(11, 177, 254);
+    color: white;
+}
+.discovery-hyh{
+    background-color: rgb(11, 177, 254);
+    color: white;
+}
+.img-correct{
+    background-color: rgb(255, 224, 187);
+    color: white; 
+}
+.yes{
+    background-color: rgb(157, 255, 70);
+    color: white; 
+}
+.img-x{
+    background-color: rgb(255, 252, 160);
+    color: white; 
+}
+.HBO{
+    border-bottom-left-radius: 20px;
+    background-color: blueviolet;
+    color: white; 
+}
+.MAX{
+    background-color: rgb(11, 177, 254);
+    color: white;
+}
+.comedy{
+    background-color: rgb(11, 177, 254);
+    color: white; 
+}
+.Family{
+    background-color: rgb(11, 177, 254);
+    color: white; 
+}
+.img-correct2{
+    border-bottom-right-radius: 20px;
+    background-color: rgb(255, 224, 187);
+    color: white;  
+}
